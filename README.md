@@ -161,7 +161,7 @@ If dependency conflicts occur, restart the runtime and rerun the installation ce
 Run the full script using:
 
 ```bash
-python eurepoc_chapter4_analysis_pipeline.py
+Python Analysis - Agnes Thesis 20260020.ipynb
 ```
 
 Or, in Jupyter/Colab, run the notebook/script cells sequentially.
